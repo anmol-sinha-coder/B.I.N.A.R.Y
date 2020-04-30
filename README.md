@@ -61,8 +61,8 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 
 
-#### Technical Description
-<img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y-1/blob/master/PPT/Diagrams/implement.jpg" width=999 height=333>
+### Technical Description
+<img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y-1/blob/master/PPT/Diagrams/implement.jpg" width=900 height=300>
 * The integration and implementation of the source code by the developer with the necessary requirements of society is essential. It is done by the Operations Manager.
 
 * An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
@@ -73,7 +73,15 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 * Several Classifier models are used to segregate and predict the people of one economic/financial class to the other, to avoid the discriminatory treatment of them as same with respect to their economic background.
 
-* 
+* The most important step used by us is the use of Deep Learning concepts and Open Computer Vision for purposes of verification. An audio file and age classifiers are used to avoid wrongful addition of data, which can corrupt the database in terms of information gain.
+
+* The deep learning models implemented can also be used to train or educate the people in these testing times. ASHA(Accredited Social Health Activist) workers also can be trained by using the various models, for example handwashing, hygiene, cleanliness etc.
+
+* I have made use of Pytorch/Tensorflow-Keras deep learning libraries to enhance the linear models using Gradient Descent and Backpropagation. Further we have used the Opencv(i.e 'cv2') DNN(Deep Neural network) models for purposes of verifying against pranks while entering data.
+
+* For Example, the youth of today can play a prank to enter their age as over 80, for both monetary and/or social benefit. But the audio sound (which classifies people above or below the age of 35) segregates them. Further the GAN (Generative Adversarial Network) age determination model will further bring the number to a close value.
+
+* Thus the technologies used for protype are layed out as follows.
 <br>
 
 ##### Technologies/versions were used
