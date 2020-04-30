@@ -33,7 +33,8 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 3. The application features the portal where citizens can report homeless people, the information would be immediately transferred to connected NGOs/ organizations.
 
-<img src="https://66.media.tumblr.com/tumblr_m2ik37tAcJ1r5993eo1_400.gifv" width=200 height=100>**_Uniqueness of The Project: _**
+
+<img src="https://thumbs.gfycat.com/AdorableUnripeArrowana-size_restricted.gif" width=100 height=100>**_Uniqueness of The Project: _**
 1. Effective business model. No Direct or Indirect Competitors.
 
 2. Multi language support to cater the diverse population.
