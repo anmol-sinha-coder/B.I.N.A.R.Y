@@ -26,7 +26,7 @@ Problem Statement:
 “Due to COVID-19, a huge number of people in our country are with no food and shelter. How can you use technology to help the authorities solve this problem ?”
 
 Proposed Solution:
-
+<img src="https://i.pinimg.com/originals/0b/9a/56/0b9a569deef6839153414ac47cc4e442.gif" width=100 height=100>
 1. An application platform which bridges the gap between the distributors and the customers.
 
 2. Using ML algorithms, we are calculating the INCOME INDEX of the customers for understanding their economic condition. This helps us to predict the % of subsidies to be given.
@@ -44,7 +44,6 @@ Uniqueness of The Project:
 4. With the use of Real Time Analytical calculations and QR Code Checkout, the waiting time at the distribution points is lowered, maintaining the SOCIAL DISTANCING rule.
 
 5. Migrant labours stuck in other cities, having their Aadhar Card can avail the service, which is not possible with the current PDS system.
-
 
 <br>
 
