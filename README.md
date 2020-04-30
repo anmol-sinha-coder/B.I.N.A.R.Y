@@ -23,7 +23,8 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 ----------------------------------
 ```diff
 ! Problem Statement: 
-- “Due to COVID-19, a huge number of people in our country are with no food and shelter. How can you use technology to help the authorities solve this problem ?”
+- “Due to COVID-19, a huge number of people in our country are with no food and shelter.
+-  How can you use technology to help the authorities solve this problem ?”
 ```
 <img src="https://i.pinimg.com/originals/0b/9a/56/0b9a569deef6839153414ac47cc4e442.gif" width=150 height=100>**_Proposed Solution:_**
 
