@@ -19,7 +19,7 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 <br>
 
-### Solution Description
+### Solution Description:
 ----------------------------------
 ```diff
 ! Problem Statement: 
@@ -47,7 +47,7 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 <br>
 
-#### Architecture Diagram
+#### Architecture Diagram:
 
 * Application Workflow
 <img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y/blob/master/PPT/Diagrams/App%20Workflow.png?raw=true" align="center">
@@ -61,7 +61,8 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 
 
-### Technical Description
+### Technical Description:
+
 <img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y-1/blob/master/PPT/Diagrams/implement.jpg" width=900 height=300>
 * The integration and implementation of the source code by the developer with the necessary requirements of society is essential. It is done by the Operations Manager.
 
@@ -82,9 +83,10 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 * For Example, the youth of today can play a prank to enter their age as over 80, for both monetary and/or social benefit. But the audio sound (which classifies people above or below the age of 35) segregates them. Further the GAN (Generative Adversarial Network) age determination model will further bring the number to a close value.
 
 * Thus the technologies used for protype are layed out as follows.
+
 <br>
 
-##### Technologies/versions were used
+##### Technologies/Versions Used:
 
 * A MERN Stack Web Application using NGINX as Reverse Proxy and Load Balancer.
 * Complete User Interface of the Mobile Application using Adobe XD.
@@ -93,7 +95,7 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 <br>
 
-##### Setup/Installations required to run the solution
+##### Setup/Installations required to run the solution:
 
 * Web Application Dependencies (For WebSite Prototype)
 * ML Model Dependancies
@@ -103,7 +105,7 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 <br>
 
 
-### Team Members
+### Team Members:
 ----------------------------------
 ```diff
 ! Vedant Shrivastava | vedantshrivastava466@gmail.com
