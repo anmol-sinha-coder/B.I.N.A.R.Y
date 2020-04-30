@@ -32,9 +32,9 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 2. Using ML algorithms, we are calculating the INCOME INDEX of the customers for understanding their economic condition. This helps us to predict the % of subsidies to be given.
 
 3. The application features the portal where citizens can report homeless people, the information would be immediately transferred to connected NGOs/ organizations.
+<br>
 
-
-<img src="https://thumbs.gfycat.com/AdorableUnripeArrowana-size_restricted.gif" width=100 height=100>**_Uniqueness of The Project: _**
+<img src="https://thumbs.gfycat.com/AdorableUnripeArrowana-size_restricted.gif" width=100 height=100> **_Uniqueness of The Project:_**
 1. Effective business model. No Direct or Indirect Competitors.
 
 2. Multi language support to cater the diverse population.
@@ -62,9 +62,19 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 
 #### Technical Description
+<img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y-1/blob/master/PPT/Diagrams/implement.jpg" width=999 height=333>
+* The integration and implementation of the source code by the developer with the necessary requirements of society is essential. It is done by the Operations Manager.
 
+* An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
+
+* It is essential that the income take into consideration all factors to necessitate the use of the code to as a Classification Model.
+
+* The first model used calculate the costs of sheltering, while the second model calculates required area as well as costs of housing the population (registered to the website/application).
+
+* Several Classifier models are used to segregate and predict the people of one economic/financial class to the other, to avoid the discriminatory treatment of them as same with respect to their economic background.
+
+* 
 <br>
-
 
 ##### Technologies/versions were used
 
