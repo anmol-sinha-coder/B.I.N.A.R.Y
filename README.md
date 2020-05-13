@@ -33,7 +33,8 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 3. The application features the portal where citizens can report homeless people, the information would be immediately transferred to connected NGOs/ organizations.
 <br>
-
+<img src="https://github.com/anmol-sinha-coder/CoViD-PDS/blob/master/PPT/Diagrams/implement.jpg" width=900 height=300>
+<hr>
 <img src="https://thumbs.gfycat.com/AdorableUnripeArrowana-size_restricted.gif" width=100 height=100> **_Uniqueness of The Project:_**
 1. Effective business model. No Direct or Indirect Competitors.
 
@@ -57,13 +58,13 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 * Web Architecture
 <img src="https://github.com/anmol-sinha-coder/CoViD-PDS/blob/master/PPT/Diagrams/architecture.png?raw=true" align="center">
 
-<br>
+<hr>
 
+&emsp;&emsp;&emsp;<img src="https://www.altoros.com/blog/wp-content/uploads/2018/04/kubeflow-to-automate-deployment-of-tensorflow-models-on-kubernetes-v14.gif" width=500 height=300>
 
+## Technical Description:
 
-### Technical Description:
-
-* The integration and implementation of the source code by the developer with the necessary requirements of society is essential. It is done by the Operations Manager.
+* The integration and implementation of the source code by the developer with the necessary requirements of society is essential. It is done by the Operations Manager, with use of Docker/Kubernetes for container deployment of the website, and Jenkins for system based automation i.e CI/CD.
 
 * An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
 
@@ -89,9 +90,10 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 * Complete User Interface of the Mobile Application using Adobe XD.
 * Utilizing the computation power of Spark for Predictive Analytics.
 * Containerizing the Application using Docker for safe and secure deployment on Cloud Engines.
-
+* OpenCV and Pytorch library (packages) used.
 <br>
-
+<img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" height=100 width=100>
+<br>
 ##### Setup/Installations required to run the solution:
 
 * Web Application Dependencies (For WebSite Prototype)
