@@ -60,7 +60,7 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 <hr>
 
-&emsp;&emsp;&emsp;<img src="https://www.altoros.com/blog/wp-content/uploads/2018/04/kubeflow-to-automate-deployment-of-tensorflow-models-on-kubernetes-v14.gif" width=500 height=300>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://www.altoros.com/blog/wp-content/uploads/2018/04/kubeflow-to-automate-deployment-of-tensorflow-models-on-kubernetes-v14.gif" width=500 height=300>
 
 ## Technical Description:
 
