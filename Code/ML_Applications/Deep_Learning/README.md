@@ -1,4 +1,8 @@
-## Here is a file for tracing content. ASHA workers can be trained via mediums like these. So keeping in mind the future of the nation, I can only say:-
+### Hey Guys and Gals, I have added animations of myself (Anmol Sinha) accomplishing the tasks using cv2-dnn.
+    I have used deques (Double-Ended Queues) to achieve the rate of disappearance of points from numpy array of the video.
+    We will further make use of pytorch file AgeGender.ipynb to achieve 100% verification of the person alongside security.
+    
+## Here is a program for tracing contents (hand written). ASHA workers can be trained via mediums like these. So keeping in mind the future of the nation, I can only say:-
 ![Me](https://github.com/anmol-sinha-coder/Deep-Learning_AI-Algorithms/blob/master/nice.gif) 
 # Nice!
 _____________________________________________________________________________________________________________________
