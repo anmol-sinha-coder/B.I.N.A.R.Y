@@ -92,7 +92,7 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 * Containerizing the Application using Docker for safe and secure deployment on Cloud Engines.
 * OpenCV and Pytorch library (packages) used.
 <br>
-<img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" height=100 width=100>   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width=100 height=100>
+<img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" height=100 width=100>&emsp;&emsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width=100 height=100>
 <br>
 ##### Setup/Installations required to run the solution:
 
