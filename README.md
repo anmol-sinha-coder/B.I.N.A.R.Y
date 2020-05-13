@@ -1,4 +1,4 @@
-# B.I.N.A.R.Y - Healthcare - DevHacks<img src="https://media0.giphy.com/media/3HI5JZCU9BYxx2daxf/source.gif" width=70 height=60>
+# _Team_: B.I.N.A.R.Y | _Topic_: Healthcare<img src="https://media0.giphy.com/media/3HI5JZCU9BYxx2daxf/source.gif" width=70 height=60>
 _________________________________________________________________________________________________________________________________
 
 Our Website Prototype :   https://covid-pds.herokuapp.com/
