@@ -112,3 +112,6 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 ! Vedant Shrivastava | vedantshrivastava466@gmail.com
 - Avik Kundu         | 1828008@kiit.ac.in
 ```
+[Go to Vedant's profile](https://github.com/Vedant-S)
+<br>
+[Go to Avik's profile](https://github.com/Lucifergene)
