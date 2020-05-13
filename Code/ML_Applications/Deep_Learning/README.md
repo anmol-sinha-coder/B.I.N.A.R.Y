@@ -5,7 +5,7 @@
     
     Further, it can be interpreted that these are basically Augmented-Reality/Virtual-Reality applications. 
     
-    Now you know how much Unity Player has to work on the backend (using python) to create gaming environment and AR/VR.
+    Now you know how much Unity Player has to work on the backend (using python) to create Gaming Environments and AR/VR.
     
 ## Here is a program for tracing contents (hand written). ASHA workers can be trained via mediums like these. So keeping in mind the future of the nation, I can only say:-
 ![Me](https://github.com/anmol-sinha-coder/Deep-Learning_AI-Algorithms/blob/master/nice.gif) 
