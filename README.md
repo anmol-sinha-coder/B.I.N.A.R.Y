@@ -50,12 +50,12 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 #### Architecture Diagram:
 
 * Application Workflow
-<img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y/blob/master/PPT/Diagrams/App%20Workflow.png?raw=true" align="center">
+<img src="https://github.com/anmol-sinha-coder/CoViD-PDS/blob/master/PPT/Diagrams/App%20Workflow.png?raw=true" align="center">
 
 <br>
 
 * Web Architecture
-<img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y/blob/master/PPT/Diagrams/architecture.png?raw=true" align="center">
+<img src="https://github.com/anmol-sinha-coder/CoViD-PDS/blob/master/PPT/Diagrams/architecture.png?raw=true" align="center">
 
 <br>
 
@@ -63,7 +63,6 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 ### Technical Description:
 
-<img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y-1/blob/master/PPT/Diagrams/implement.jpg" width=900 height=300>
 * The integration and implementation of the source code by the developer with the necessary requirements of society is essential. It is done by the Operations Manager.
 
 * An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
@@ -81,12 +80,10 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 * I have made use of Pytorch/Tensorflow-Keras deep learning libraries to enhance the linear models using Gradient Descent and Backpropagation. Further we have used the Opencv(i.e 'cv2') DNN(Deep Neural network) models for purposes of verifying against pranks while entering data.
 
 * For Example, the youth of today can play a prank to enter their age as over 80, for both monetary and/or social benefit. But the audio sound (which classifies people above or below the age of 35) segregates them. Further the GAN (Generative Adversarial Network) age determination model will further bring the number to a close value.
-
-* Thus the technologies used for protype are layed out as follows.
-
+<img src="https://github.com/anmol-sinha-coder/CoViD-PDS/blob/master/PPT/Diagrams/implement.jpg" width=900 height=300>
 <br>
 
-##### Technologies/Versions Used:
+##### Technologies/Versions Used (for prototype):
 
 * A MERN Stack Web Application using NGINX as Reverse Proxy and Load Balancer.
 * Complete User Interface of the Mobile Application using Adobe XD.
@@ -108,7 +105,7 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 ### Team Members:
 ----------------------------------
 ```diff
-! Vedant Shrivastava | vedantshrivastava466@gmail.com
 + Anmol Sinha        | 1805553@kiit.ac.in
-- Akshya Anand Nanda | 1805545@kiit.ac.in
+! Vedant Shrivastava | vedantshrivastava466@gmail.com
+- Avik Kundu         | 1828008@kiit.ac.in
 ```
