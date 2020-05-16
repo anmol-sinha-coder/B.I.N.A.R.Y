@@ -54,11 +54,11 @@ call `eval_live()` function in `evaluate.py`
 
 ## Reference
 
-[1] Rothe R, Timofte R, Van Gool L. Deep Expectation of Real and Apparent Age from a Single Image Without Facial Landmarks [J/OL]. International Journal of Computer Vision. 126 (2). 2018, Apr: 144–157.
+      [1] Rothe R, Timofte R, Van Gool L. Deep Expectation of Real and Apparent Age from a Single Image Without Facial Landmarks [J/OL]. International Journal of Computer Vision. 126 (2). 2018, Apr: 144–157.
 
-[2] Antipov G, Baccouche M, Berrani S-A et al. Effective training of convolutional neural networks for face-based gender and age prediction [J/OL]. Pattern Recognition. 72. 2017, December: 15–26. 
+      [2] Antipov G, Baccouche M, Berrani S-A et al. Effective training of convolutional neural networks for face-based gender and age prediction [J/OL]. Pattern Recognition. 72. 2017, December: 15–26. 
 
-[3] Panis G, Lanitis A, Tsapatsoulis N et al. Overview of research on facial ageing using the FG-NET ageing database [J]. IET Biometrics. 5 (2). 2016: 37–46.
+      [3] Panis G, Lanitis A, Tsapatsoulis N et al. Overview of research on facial ageing using the FG-NET ageing database [J]. IET Biometrics. 5 (2). 2016: 37–46.
 
 
 
