@@ -9,7 +9,7 @@ This repository is used for finding and predicting from an image one or multiple
 ## Requirements
 
 - python3, **pytorch**
-- `pip3 install --upgrade opencv-python, dlib, imutils, skimage`
+- `pip install --upgrade opencv-python, dlib, imutils, skimage`
 - Download [FaceAligner]( http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) and save `shape_predictor_68_face_landmarks.dat` in `models/`
 - Download [FaceDetector]( http://dlib.net/files/mmod_human_face_detector.dat.bz2 ) and save `mmod_human_face_detector.dat` in `models/`
 
